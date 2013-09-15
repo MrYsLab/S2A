@@ -1,0 +1,24 @@
+{	"extensionName": "Code Shield",
+	"extensionPort": 50208,
+	"blockSpecs": [
+	    [" " , "Relay %n", "relay_state",0],
+	    [" " , "Servo %n", "servo_degrees",90],
+	    [" " , "Red_LED_PWM_Select %n", "red_led_pwm", 128],
+	    [" " , "Green_LED_PWM_Select %n", "green_led_pwm", 128],
+        [" " , "Blue_LED_PWM_Select %n", "blue_led_pwm", 128],
+        [" " , "White_LED_PWM_Select %n", "white_led_pwm", 128],
+        [" " , "Red_LED_Select %n", "red_led", 0],
+	    [" " , "Green_LED_Select %n", "green_led", 0],
+        [" " , "Blue_LED_Select %n", "blue_led", 0],
+        [" " , "White_LED_Select %n", "white_led", 0],
+        [" " , "PiezoTone %n %n", "piezo_tone", 550, 1000],
+		["r", "encoder", "encoder"],
+		["r", "potentiometer", "pot"],
+		["r", "hall effect", "hall"],
+		["r", "thermistor", "thermo"],
+		["r", "photocell", "photo"],
+		["r", "slideswitch", "slide"],
+		["r", "buttonswitch", "button"]
+	],
+    "useHTTP": true
+}

@@ -1,0 +1,7 @@
+{	"extensionName": "Hello Arduino",
+	"extensionPort": 50209,
+	"blockSpecs": [
+	    [" " , "Arduino_LED %n", "pin_13_led",0]
+	],
+    "useHTTP": true
+}

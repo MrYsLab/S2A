@@ -1,0 +1,14 @@
+{	"extensionName": "S2A Simon Game",
+	"extensionPort": 50211,
+	"blockSpecs": [
+	    [" ", "Red_LED %n",       "red_led_pin_3", 0 ],
+	    [" ", "Yellow_LED %n",    "yellow_led_pin_4", 0 ],
+	    [" ", "Green_LED %n",     "green_led_pin_5", 0 ],
+	    [" ", "Blue_LED %n",      "blue_led_pin_6", 0 ],
+	    ["r", "Red_Switch",       "red_switch_pin_10"],
+	    ["r", "Yellow_Switch",    "yellow_switch_pin_9"],	
+	    ["r", "Green_Switch",     "green_switch_pin_8" ],	    
+	    ["r", "Blue_Switch",      "blue_switch_pin_11" ]		
+	],
+    "useHTTP": true
+}
