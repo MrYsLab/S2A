@@ -61,7 +61,7 @@ long position = -999 ;
 void setup()
 {
   delay(1000);    // Keep this here so we don't flood the serial line
-  Serial.begin(57600);    // Set up Serial library at 57600 bps
+  Serial.begin(115200);    // Set up Serial library at 57600 bps
   Serial.println("{\"status\":\"ready\"}");
 }
 
