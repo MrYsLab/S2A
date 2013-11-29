@@ -1,3 +1,7 @@
+S2A
+===
+   A Scratch 2.0 Hardware Extension written in Python
+
 Connect your Scratch creations to an Arduino UNO or Leonardo, without having to write one line of additional code!
 Three demos are included:
     1. The obligatory "Blink the pin 13 LED - Arduino Hello World" (from Scratch of course!)
