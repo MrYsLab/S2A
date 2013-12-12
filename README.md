@@ -1,5 +1,10 @@
+Note: S2A has been replaced by s2a_fm.
+https://github.com/MrYsLab/s2a_fm
+
+
 S2A
 ===
+
    A Scratch 2.0 Hardware Extension written in Python
 
 Connect your Scratch creations to an Arduino UNO or Leonardo, without having to write one line of additional code!
