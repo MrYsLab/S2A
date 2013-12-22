@@ -1,4 +1,7 @@
-Note: S2A has been replaced by s2a_fm.
+Note
+====
+
+S2A has been replaced by s2a_fm.
 https://github.com/MrYsLab/s2a_fm
 
 
